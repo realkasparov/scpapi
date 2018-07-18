@@ -4,7 +4,7 @@
         "messages": [
           {
             "type": "list",
-            "top_element_style": "compact",
+            "top_element_style": "large",
             "buttons": [],
             "elements": [
               {
