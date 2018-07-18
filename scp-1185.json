@@ -5,7 +5,6 @@
           {
             "type": "list",
             "top_element_style": "large",
-            "buttons": [],
             "elements": [
               {
                 "title": "SCP-1185",
