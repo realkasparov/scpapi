@@ -1,0 +1,28 @@
+{
+    "version": "v2",
+    "content": {
+        "messages": [
+          {
+            "type": "list",
+            "top_element_style": "compact",
+            "buttons": [],
+            "elements": [
+              {
+                "title": "SCP-1185",
+                "subtitle": "Самозаправляющаяся бензоколонка",
+                "image_url": "http://scp-ru.wdfiles.com/local--files/scp-1185/1185.jpg",
+                "action_url": "http://scpfoundation.ru/scp-1185",
+                "buttons": []
+              },
+              {
+                "title": "SCP-1185",
+                "subtitle": "Самозаправляющаяся бензоколонка",
+                "image_url": "http://scp-ru.wdfiles.com/local--files/scp-1185/1185.jpg",
+                "action_url": "http://scpfoundation.ru/scp-1185",
+                "buttons": []
+              }
+            ]
+          }
+        ]
+    }
+}
